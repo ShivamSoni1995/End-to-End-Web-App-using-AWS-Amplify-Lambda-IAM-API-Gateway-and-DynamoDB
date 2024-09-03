@@ -1,1 +1,5 @@
-
+1. Host a Web APP on AWS Amplify
+2. Select the option "UPLOAD THROUGH GIT LAB"
+3. Create a local Index.html file , convert it to a zip file 
+4. Drag and drop the zip file in the AWS Amplify 
+5.Deploy
